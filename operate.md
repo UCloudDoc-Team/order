@@ -1,15 +1,11 @@
+<img width="1363" alt="image" src="https://github.com/user-attachments/assets/0abbab98-8255-446f-9467-5f8dd5a9998f">
 
+# 订单查询 
 
-# 订单操作.
-
-## 一、订单查询 
-
-在您购买资源后，系统会根据您的指定配置生成订单。您可在用户中心\>订单管理中查询。
-![image](/images/20190603140618.png)
+在您购买资源后，系统会根据您的指定配置生成订单。您可在财务中心\>订单管理中查询。
+<img width="1353" alt="image" src="https://github.com/user-attachments/assets/c77d7d1e-ad95-43ff-912e-e3d7fb1f3f59">
 
 待支付订单默认显示所有订单
 已完成和已取消订单默认显示本月订单 
 
-## 二、订单导出
 
-改版后，订单不再支持导出功能。如需导出数据，请在“交易账单“中操作。
