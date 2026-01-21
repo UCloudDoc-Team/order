@@ -1,7 +1,5 @@
 
 * [概览](/order/README)
-* [订单规则](/order/rule)
-  * [规则](/order/test)
-  * 操作
-     * [订单操作](/order/operate) 
-* [订单操作](/order/operate)        
+* [订单概念](/order/rule)
+* [订单字段定义](/order/operate)        
+* [订单功能](/order/index)  
