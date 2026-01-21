@@ -12,9 +12,8 @@
 
 ### 订单与账单的区别：
 
-<div style="border: 2px solid blue; padding: 10px; border-radius: 5px; background: #f8f9fa;">
   
 - **订单**：单次交易记录（如购买1台4核8G CVM）  
 - **账单**：按月维度进行费用汇总（如账单包含该月的多笔订单费用）
 
-</div>
+
