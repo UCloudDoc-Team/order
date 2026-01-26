@@ -48,7 +48,7 @@
 选择查看订单，查看订单详情页面。
 
 - 在订单详情页面可以查看订单信息、资源信息、配置信息等。
-  <img width="1480" height="820" alt="image" src="https://github.com/user-attachments/assets/4bceb353-2c6d-40a4-bc07-fbe1f64bfc6a" />
+![](images/coEyTQMOmgf_o_6VZzBbTvaLcZZOeaLtQdObCysr7YI.jpg)
   
 ## 已取消页面
 
