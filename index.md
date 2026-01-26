@@ -17,7 +17,7 @@
    - 资源使用周期结束后，若产品接入回收系统并且账户余额不足以支付订单的情况下，该资源会进入回收阶段，具体规则参考 [自动续费](https://docs.ucloud.cn/renew/autorenew)。
 
    - 资源使用周期结束后，若产品未接入回收系统并且账户余额不足以支付订单的情况下，系统将生成到期订单（按天生成），您需手动续费或者往账户充值金额（若您开启自动续费，系统会为您自动完成续费，若您未开启自动续费，您需要手动完成续费）；若您选择不再使用并删除资源，系统将生成删除订单，此订单无需支付。
-<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/249f83fb-27a0-4728-bfd6-e1f8d0e83be5" />
+![](images/o21Pj8kyzJ8yq59Lm5HpJTIjM_YANkf_Ad0vF-TtQiQ.jpg)
 
 ## 已完成页面
 
