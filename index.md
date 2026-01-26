@@ -23,7 +23,7 @@
 
 用户可以在已完成页面查看订单号、创建时间、订单类型、资源ID、金额等信息。
 
-<img width="1420" height="512" alt="image" src="https://github.com/user-attachments/assets/743d6d94-391d-4a01-9042-efa2acd6e5d7" />
+![](images/Uvn6G927lmfaahLBZLzo3kneYuzMQ4zCi1_Aft67naU.jpg)
 【说明】
 
 1. **订单展示：**
