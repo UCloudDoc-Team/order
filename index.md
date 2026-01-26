@@ -40,7 +40,7 @@
 
  4. **订单金额：**
 
-![](images/u5mslAMuB1pq0twwgejlm4WLkAH9A4DSrk79q19agxY.png)
+![](images/pw8075hcXdyqYXQBB7QSwyj8vNYjqthbX2ylWSLt4_E.png)
 
 <img width="525" height="165" alt="image" src="https://github.com/user-attachments/assets/5e71a905-a5a7-4fb6-b419-dd5873e19bfb" />
    点击金额旁边的符号，可以查看金额的支付构成情况，订单金额=现金+赠金+代金券。
