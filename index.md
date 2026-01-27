@@ -48,7 +48,7 @@
 选择查看订单，查看订单详情页面。
 
 - 在订单详情页面可以查看订单信息、资源信息、配置信息等。
-![](images/coEyTQMOmgf_o_6VZzBbTvaLcZZOeaLtQdObCysr7YI.jpg)
+![](images/f8c7ce6f6e4dceb00d4889d6857c0561_compress.jpg)
   
 ## 已取消页面
 
