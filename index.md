@@ -23,7 +23,7 @@
 
 用户可以在已完成页面查看订单号、创建时间、订单类型、资源ID、金额等信息。
 
-![](images/Uvn6G927lmfaahLBZLzo3kneYuzMQ4zCi1_Aft67naU.jpg)
+![](images/1343f8ecdd82ffbf65e5966d593258bd_compress.jpg)
 【说明】
 
 1. **订单展示：**
